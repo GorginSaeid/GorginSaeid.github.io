@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GorginSaeid.github.io/sitemap.xml
+Sitemap: https://sgorgin.com/sitemap.xml
