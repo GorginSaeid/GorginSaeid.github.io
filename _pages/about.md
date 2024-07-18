@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-    <p>Research Professor (Brain Pool Program), Chosun University, Gwangju, Korea </p>
+    <p>Research  Professor (Brain Pool Program), Chosun University, Gwangju, Korea </p>
 	<p>Associate Professor, Iranian Research Organization for Science and Technology, Tehran, Iran</p>
 
 
