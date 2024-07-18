@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Professor (Brain Pool Program), Chosun University, Gwangju, Korea </br> Associate Professor, Iranian Research Organization for Science and Technology, Tehran, Iran
+subtitle: > 
+    <p>Research Professor (Brain Pool Program), Chosun University, Gwangju, Korea </p>
+	<p>Associate Professor, Iranian Research Organization for Science and Technology, Tehran, Iran</p>
 
 
 profile:
@@ -14,7 +16,7 @@ profile:
     <p>Chosun University</p>
     <p>Gwangju, Korea</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
