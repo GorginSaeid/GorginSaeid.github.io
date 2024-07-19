@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Saeid Gorgin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th September 1978
     - name: Languages
-      value: English, German
+      value: Persian, English
 
 - title: Education
   type: time_table
