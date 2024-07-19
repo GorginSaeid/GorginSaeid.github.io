@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Professor (Brain Pool Program), Chosun University, Gwangju, Korea <br> Associate Professor, Iranian Research Organization for Science and Technology, Tehran, Iran.
+subtitle: Research  Professor (Brain Pool Program), Chosun University, Gwangju, Korea <br> Associate Professor, Iranian Research Organization for Science and Technology, Tehran, Iran.
 
 
 profile:
