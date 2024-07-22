@@ -2,11 +2,72 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: (2004-now)
 nav: true
 nav_order: 6
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- **Advanced VLSI** (Explored advanced topics in VLSI design, including arithmetic circuits design, memory array design, system-on-chip (SoC) design, low-power design, and VLSI testing techniques.)
+  - **Universities & Institutions:** Sharif University of Technology (SUT); Iran University of Science & Technology (IUST); Kharazmi University (KHU); Azad University.
+  - **References:**
+    - _“CMOS VLSI Design: A Circuits and Systems Perspective” by Neil Weste and David Harris_
+    - _“Digital Integrated Circuits: A Design Perspective” by Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic_
+- **Computer Arithmetic** (Studied algorithms and hardware design techniques for arithmetic operations in computers, emphasizing binary, decimal, and modular arithmetic.)
+  - **Universities & Institutions:** IROST; Kharazmi University (KHU); Shahid Beheshti University (SBU); Azad University.
+  - **References:**
+    - _“Computer Arithmetic: Algorithms and Hardware Designs” by Behrooz Parhami_
+    - _“Digital Arithmetic” by Miloš D. Ercegovac and Tomás Lang_
+- **Cryptography (Hardware Implementation)** (Introduced cryptographic algorithms focusing on hardware implementation, including practical examples using FPGAs, ASICs, hardware security aspects, and side-channel attacks.)
+  - **Universities & Institutions:** IROST; Shahid Beheshti University (SBU); Azad University.
+  - **References:**
+    - _“Understanding Cryptography” by Christof Paar and Jan Pelzl_
+    - _“Cryptographic Engineering” by Cetin Kaya Koc_
+- **Hardware Description Language** (Introduced hardware description languages such as VHDL and Verilog, covering syntax, semantics, and practical design examples.)
+  - **Universities & Institutions:** IROST; Iran University of Science & Technology (IUST); Shahid Beheshti University (SBU); Azad University.
+  - **References:**
+    - _“Circuit Design With VHDL” by Volnei A. Pedroni_
+    - _“VHDL: Analysis and Modeling of Digital Systems” by Zainalabedin Navabi_
+- **Digital System Design (DSD)** (Designed and analyzed digital systems, covering combinational and sequential logic design, finite state machines, and digital design flow.)
+  - **Institutions:** Sharif University of Technology (SUT); Tehran.
+  - **References:**
+    - _“Digital Design” by M. Morris Mano and Michael D. Ciletti_
+    - _“Digital Design: A Systems Approach”, by William James Dally , R. Curtis Harting_
+    - _“Verilog HDL: A Guide to Digital Design and Synthesis”, by Samir Palnitkar_
+- **Digital Electronics** (Covered principles of digital electronics, including logic gates, combinational and sequential circuits, and digital system design.)
+  - **Institutions:** Azad University.
+  - **References:**
+    - _“Digital Electronics: Principles, Devices and Applications” by Anil K. Maini_
+    - _“Digital Integrated Circuits: A Design Perspective” by Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic_
+    - _“Logical Effort: Designing Fast CMOS Circuits”, by Ivan Sutherland, Robert F. Sproull, David Harris_
+- **Advanced Computer Programming** (Covered advanced topics in computer programming, including object-oriented programming, data structures, algorithms, and software engineering principles.)
+  - **Institutions:** Institute for Advanced Studies in Basic Sciences (IASBS)**.**
+  - **References:**
+    - _“The C++ Programming Language”, by Bjarne Stroustrup_
+    - _“Data Structures and Algorithm Analysis in C++” by Mark Allen Weiss_
+    - _“Programming: Principles and Practice Using C++” by Bjarne Stroustrup_
+    - _“Introduction to Algorithms” by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein._
+- **Basic Computer Programming** (Covered fundamental programming concepts, including syntax, control structures, data types, and basic algorithms using languages such as C or Python.)
+  - **Institutions:** Azad University.
+  - **References:**
+    - _“C Programming Language” by Brian W. Kernighan, Dennis M. Ritchie_
+    - _“Turbo Pascal: The Complete Reference” by Stephen K. O'Brien_
+    - _“Python Programming: An Introduction to Computer Science” by John M. Zelle_
+- **Microprocessor & Microprocessor Lab** (Covered microprocessor architecture, programming, and interfacing. Included hands-on labs with assembly language and interfacing techniques.)
+  - **Institutions:** Shahid Beheshti University (SBU); Azad University.
+  - **References:**
+    - _“80X86 IBM PC and Compatible Computers: Assembly Language, Design, and Interfacing” by Muhammad Ali Mazidi, Janice Mazidi Gillispie, Janice Gillispie Mazidi._
+    - _“Microprocessor Systems Design: 68000 Family Hardware, Software, and Interfacing” by Alan Clements_
+    - _“The X86 PC Assembly Language, Design, And Interfacing” by Muhammad Ali Mazidi_
+- **Assembly Language** (Introduced assembly language programming for processors. Topics included instruction sets, addressing modes, and programming techniques.)
+  - **Institutions: Azad University, Ghazvin, Iran.**
+  - **References:**
+    - _“Professional Assembly Language”by Richard Blum_
+    - _“Assembly Language for Intel-Based Computers” by Kip R. Irvine_
+- **Basic Computer Concepts** (Introduced fundamental concepts of computer science, including hardware, software, algorithms, and data structures.)
+  - **Institutions: Shahid Beheshti University (SBU), Tehran.**
+  - **References:**
+    - _“Computer Science: An Overview” by J. Glenn Brookshear and Dennis Brylow_
+    - _“Invitation to Computer Science” by G.Michael Schneider and Judith L. Gersting_
+    - _“Computer Organization and Design: The Hardware/Software Interface” by David A. Patterson, John L. Hennessy_
+- **Computer Lab** (Provided practical hands-on experience in computer science. Included programming, debugging, and using software tools and environments.)
+  - **Institutions:** Shahid Beheshti University.
+  - **References:** _No specific textbook; lab manuals and course notes used._
