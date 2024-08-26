@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Saeid Gorgin
     - name: Label
       value: Researcher
@@ -35,7 +35,7 @@
   type: time_table
   contents:
     - title: Research Professor (Brain Pool Program)
-      year: 2021-PRESENT
+      year: 2021-2024
       institution: Chosun University
       description:
            - Domain-Specific Hardware Accelerators Based on MSDF Arithmetic
