@@ -35,18 +35,23 @@
   type: time_table
   contents:
     - title: Research Professor (Brain Pool Program)
+      year: 2021-PRESENT
       institution: Chosun University
-      year: 2021
-      summary: A Holistic Approach to Design Low Latency Energy Efficient Domain-Specific
-              Hardware Accelerators for Data-Centric Computing via Online Arithmetic.
-      highlights:
+      description:
            - Domain-Specific Hardware Accelerators Based on MSDF Arithmetic
+           
     - title: Associate Professor
       institution: Iranian Research Organization for Science and Technology (IROST)
-      year: 2012
-      
-      summary: Advancing research, Publishing findings, Teaching, Supervising students, Securing funds, Contributing to academic policies
-      highlights:
+      year: 2012      
+      description:
        - Intelligent Transportation System Lab
        - Information Technology and Intelligent Systems research group
-
+    
+    - title: Director of High Performance Computing Center
+      institution: IPM - Institute for Research in Fundamental Sciences
+      year: 2011-2017      
+      description:
+       - Research
+       - Knowledge development
+       - Production 
+       
